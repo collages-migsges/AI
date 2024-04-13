@@ -211,7 +211,34 @@ a{
 .mmm{
     animation: ani 1s;
 }
-
+@media (max-width: 420px){
+    header{
+        padding: 0;
+        height: 50px;
+    }
+   li{
+    width: 90px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 2px;
+   }
+   .men_g{
+    margin-left: 10px;
+    margin-right: 20px;
+    float: none;
+    width: auto;
+    height: auto;
+   }
+   .statia{
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 10px;
+   }
+h1{
+    font-size: 0ch;
+}
+}
 
 
 
