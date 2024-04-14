@@ -346,7 +346,7 @@ h2{
         margin-left: 15px;
        } 
 }
-@media (min-width: 850px){
+@media (min-width: 810px){
     li{
         width: 120px;
         margin-right: 0px;
