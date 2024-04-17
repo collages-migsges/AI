@@ -179,12 +179,13 @@ a{
     margin-right: 40px;
     width: 25%;
     margin-left: 100px;
-    height: 420px;
+    height: fit-content;
     border-radius: 10px;
     display: flex;
     float: inline-start;
     padding: 15px;
     margin-bottom: 15px;
+    
     
     text-align: center;
 
@@ -192,6 +193,7 @@ a{
 .annn{
     max-height: 100%;
     font-family: Calibri;
+    height: fit-content;
 }
 
 @keyframes anim{
@@ -389,7 +391,7 @@ h2{
         margin-right: 40px;
         width: 25%;
         margin-left: 100px;
-        height: 420px;
+        height: fit-content;
         border-radius: 10px;
         display: flex;
         float: inline-start;
